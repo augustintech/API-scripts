@@ -5,3 +5,4 @@ Custom made backend scripts to interact with API’s
 - Fill img tag with your own images.
 - Put your google API key
 - Fill in a comptabile api endpoint to send POST requests to
+- Fill in default coordinates: latitude and longitude.
